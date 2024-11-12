@@ -1,9 +1,7 @@
 # Descriptive Statistics Analysis of Basketball Player Performance
 
 ## Overview
-This project entails a thorough statistical analysis of a basketball player's performance across 40 games, 
-aiming to uncover insights into their scoring patterns and overall efficiency. 
-Utilizing Python's powerful libraries, we've dissected the player's scoring data to present a comprehensive view of their performance metrics.
+This is detailed statistical analysis of a basketball player's performance in scoring throughout 40 games, carried out with the intention of revealing the quantity of his scoring and how efficient it was toward team effort. Let's explore deep down into this player's scoring data using Python and its powerful libraries to give us a complete view of his performance metrics.
 
 ## Key Features and Findings
 * **Data Loading and Cleaning:** Utilized Pandas to load and prepare the dataset for analysis, ensuring accuracy and reliability in the subsequent statistical evaluation.
